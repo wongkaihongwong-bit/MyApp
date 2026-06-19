@@ -1,0 +1,6 @@
+{
+  "name": "AI Studio Companion",
+  "description": "Interactive dashboard with local Database SQLite storage, live status check metrics, custom Material 3 greeting card generation, and premium twilight UI layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
